@@ -1,0 +1,108 @@
+{
+  "name": "CVD Medical Analytics Theme",
+  "dataColors": [
+    "#C0392B",
+    "#1F4E79",
+    "#2E86C1",
+    "#A93226",
+    "#7B241C",
+    "#5D6D7E"
+  ],
+  "background": "#FDF2F2",
+  "foreground": "#2C2C2C",
+  "tableAccent": "#C0392B",
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 12,
+            "color": "#2C2C2C",
+            "alignment": "center"
+          }
+        ],
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FDF2F2"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": "#2C2C2C",
+            "radius": 10
+          }
+        ],
+        "legend": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 10,
+            "labelColor": "#2C2C2C",
+            "position": "Right"
+          }
+        ],
+        "labels": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 10,
+            "color": "#2C2C2C"
+          }
+        ]
+      }
+    },
+
+    "card": {
+      "*": {
+        "calloutValue": [
+          {
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 28,
+            "color": "#2C2C2C"
+          }
+        ],
+        "categoryLabel": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 11,
+            "color": "#C0392B"
+          }
+        ]
+      }
+    },
+
+    "slicer": {
+      "*": {
+        "items": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 10,
+            "color": "#2C2C2C"
+          }
+        ],
+        "header": [
+          {
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 11,
+            "color": "#2C2C2C"
+          }
+        ],
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FDF2F2"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
