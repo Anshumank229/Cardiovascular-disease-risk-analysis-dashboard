@@ -1,4 +1,4 @@
-# Cardiovascular-disease-risk-analysis-dashboard
+# Cardiovascular-Disease-Risk-Analysis-Dashboard
 
 
 This project analyzes cardiovascular disease risk factors using a healthcare dataset from Kaggle. The dataset was cleaned, transformed, and analyzed to identify patterns related to heart disease prevalence.
